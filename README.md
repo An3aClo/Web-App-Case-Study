@@ -1,5 +1,4 @@
 # Web-App-Case-Study
-Bond calculator 
 
 How to run
 1. Import the database file to PHPMyAdmin. Datbase file is called id11704850_bondcalc.sql
@@ -12,5 +11,10 @@ How to run
 The programming languages used are:
  - Javascript
  - PHP
+ - SQL
  - HTML
  - CSS
+ 
+ Hosting:
+ This website can be accesed on https://bondcalc.000webhostapp.com/
+ 
